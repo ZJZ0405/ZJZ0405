@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjz0405&label=Profile%20views&color=0e75b6&style=flat" alt="zjz0405" /> </p>
 
-- 🔭 I’m currently working on [创梦之翼](https://github.com/HEU-Wings-of-Dream)
+- 🔭 I’m currently working on [创梦之翼战队](https://github.com/HEU-Wings-of-Dream)
 
 - 🌱 I’m currently learning **C++, OpenCV, Robomaster**
 
