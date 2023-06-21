@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjz0405&label=Profile%20views&color=0e75b6&style=flat" alt="zjz0405" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjz0405" alt="zjz0405" /></a> </p>
-
 - 🔭 I’m currently working on [创梦之翼](https://github.com/HEU-Wings-of-Dream)
 
 - 🌱 I’m currently learning **C++, OpenCV, Robomaster**
